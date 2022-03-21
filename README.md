@@ -41,7 +41,7 @@
   My personal company for freelancing. Usually i work with Unity3D but also worked with python, javascript, java and pure C#.
   My work usually is for events and shows, but i have already build systems for companies and full VR experiences and games.
   
-### CTO of Credistar LTDA (2021 - Currently)
+### Tech Lead at Credistar LTDA (2021 - Currently)
   Small company in Brazil for loans with the Credit Card.
   Worked with a team of 4 people, with designers and developers, building all the software from the ground up. Backend on Nodejs and Frontend with Nextjs and Typescript. Amazing experience building a company from scrach with the team.
   
@@ -69,4 +69,4 @@
 - Animes and stuff
 - Kind addicted to find new ad wacky tecnology
 
-Last Edited on: 10/02/2022
+Last Edited on: 21/03/2022
