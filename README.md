@@ -28,7 +28,7 @@
 
 - C#: 8 Years
 - Nodejs: 5 Years
-- ReactJs: 2 Years
+- ReactJs: 4 Years
 - VueJs: 2 Years
 - TypeScript: 1 Year
 - Python: 1.5 Years
