@@ -6,7 +6,7 @@
 <p align="center"> 
 	<p align="center">
 	<a href="mailto:ricardohcastro@hotmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://wa.me/552107928008"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://koikorn.com"><img src="https://img.shields.io/badge/WebSite-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Website"/></a>
 	<a href="https://www.linkedin.com/in/ricardo-castro-aa74239b/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/ricardohprc/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
@@ -27,11 +27,11 @@
 ### Programming languages
 
 - C#: 8 Years
-- Nodejs: 5 Years
-- ReactJs: 4 Years
+- Nodejs: 6 Years
+- ReactJs: 5 Years
 - VueJs: 2 Years
-- TypeScript: 1 Year
-- Python: 1.5 Years
+- TypeScript: 3 Year
+- Python: 3 Years
 - Java: 3 Years
 
 <br>
@@ -45,7 +45,7 @@
   Small company in Brazil for loans with the Credit Card.
   Worked with a team of 4 people, with designers and developers, building all the software from the ground up. Backend on Nodejs and Frontend with Nextjs and Typescript. Amazing experience building a company from scrach with the team.
   
-### Software Developer Multiplan S.A (2018 - 2020)
+### Fullstack Engenieer Multiplan S.A (2018 - 2020)
   From React apps to Chatbots and Robots, i did a lot working for Multiplan. First, i was hired to help develop an application for SoftBank's Nao Robot and with that we created a Chatbot with Nodejs and Dialogflow. The team was only 4 people and i was the only programmer. Then we integrated the Chatbot architecture with the Marketplace app in react. In the end i was working for the React App Team as a frontend developer.
   
 ### C# Software Engineer at Aurea Software (2016 - 2018)
@@ -56,6 +56,10 @@
 ### Junior Developer Full Stack (2014 - 2016)
   Worked on a event company doing all kinds of software. Usually we created 3 softwares per month for small and big events and marketing. The softwares were very simple but i learned a lot working with designers and clients.
   Some softwares was used on Rock In Rio, Rio's Olympic Games, Coca Cola and etc.
+  
+For my Full CV, please check my:
+<a href="https://www.linkedin.com/in/ricardo-castro-aa74239b/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://koikorn.com"><img src="https://img.shields.io/badge/WebSite-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Website"/></a>
 
 <br>
 
@@ -66,4 +70,4 @@
 - Animes and stuff
 - Kind addicted to find new ad wacky tecnology
 
-Last Edited on: 21/03/2022
+Last Edited on: 23/01/2023
