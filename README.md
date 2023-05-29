@@ -15,10 +15,9 @@
 
 ## About me
 - Graduated on Computer Science on State University of Rio de Janeiro
-- C# and Nodejs Proud Programmer
+- Nodejs Proud Programmer
 - Automation and Robot programming enthusiast
-- Unity3D game maker
-- 10 Years of professional programming. 5 Playing with flash
+- 10 Years of professional programming.
 - Using Arch Linux
 - Captain on Kubernetes
 - Already installed Gentoo (in just under of 2 months)
@@ -26,7 +25,6 @@
 
 ### Programming languages
 
-- C#: 8 Years
 - Nodejs: 6 Years
 - ReactJs: 5 Years
 - VueJs: 2 Years
